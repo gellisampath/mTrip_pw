@@ -10,5 +10,12 @@
   "devDependencies": {
     "@playwright/test": "^1.47.2",
     "@types/node": "^22.7.4"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.30.0",
+    "allure-playwright": "^3.0.4",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "playwright": "^1.47.2"
   }
 }

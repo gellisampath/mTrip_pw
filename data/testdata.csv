@@ -1,0 +1,4 @@
+test_case_name,execute,from_city,to_city,guest_name,guest_phone
+bookHotel,true,Mumbai,johndoe,1234567890
+bookFlight,true,New Delhi,Mumbai,John Doe,ABC1234567
+cancelFlight,true,NA,NA,booking123,NA
